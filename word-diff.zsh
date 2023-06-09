@@ -15,7 +15,7 @@ convert A.png B.png -compose Plus -composite C_only.png && \
 
 rm A.png B.png && \
 
-convert A_only.png +level-colors DodgerBlue, A_only_blue.png && \
+convert A_only.png +level-colors DodgerBlue3, A_only_blue.png && \
 convert B_only.png +level-colors firebrick, B_only_red.png && \
 
 rm A_only.png B_only.png && \
