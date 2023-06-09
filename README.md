@@ -10,8 +10,8 @@ kotlin + search replace "val" for "konst"
 
 ### Q: Why
 
-![](images/final.png)
-![](images/var_vs_konst.png)
+![](images/val_vs_var.png)
+![](images/konst_vs_var.png)
 
 ### Q: How
 
